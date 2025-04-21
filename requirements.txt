@@ -1,0 +1,6 @@
+streamlit==1.22.0
+openai
+python-dotenv==1.0.0
+pymysql
+SQLAlchemy
+langchain==0.0.284
